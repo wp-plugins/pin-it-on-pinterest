@@ -9,7 +9,7 @@ Pin It On Pinterest places a Pin It button at the end of your posts, and allows 
 
 == Description ==
 
-Pin It On Pinterest places a "Pin It" button at the end of your posts, and allows you to predetermine what gets “Pinned” at Pinterest. Spawned by the idea of Jamie Swanson of [The Modern Tog](http://themoderntog.com) and developed by William Bay of [Flaunt Your Site](http://flauntyoursite.com "Web design, marketing and SEO for photographers").
+Pin It On Pinterest places a "Pin It" button at the end of your posts, and allows you to predetermine what gets "Pinned" at Pinterest. Spawned by the idea of Jamie Swanson of [The Modern Tog](http://themoderntog.com) and developed by William Bay of [Flaunt Your Site](http://flauntyoursite.com "Web design, marketing and SEO for photographers").
 
 Pinterest is one of 2011's fastest growing websites, with the potential for substantial amounts of traffic from users reviewing the Pins that users have posted.
 
